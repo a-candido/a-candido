@@ -1,16 +1,87 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4A148C,100:CE93D8&section=header"/>
 
-<!--
-**a-candido/a-candido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img align="center" height="150" src="https://i.imgur.com/wl70Kwb.gif" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <b><samp>الحمد لله</samp></b>
+  <br>
+  <samp>
+    Hi there! I'm <b>Ana Laura Cândido</b>
+  </samp>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=CE93D8&width=900&size=22&center=true&lines=I'm+a+Computer+Engineering+student;Backend+Developer+%7C+Python+%2B+FastAPI;Cybersecurity+%7C+Blue+Team+%2F+SOC;Building+my+way+into+international+tech;Welcome+to+my+profile!" alt="Typing SVG"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/backend_dev-%23CE93D8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/cybersecurity-%236A1B9A?style=for-the-badge&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center" style="display: inline_block">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
+</div>
+
+<div align="center" style="display: inline_block">
+  <br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+</div>
+
+<br><br>
+
+<!-- Contribution snake animation - see snake.yml for setup -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nlrcndd/nlrcndd/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<br>
+
+<details align="center">
+<summary><samp><b>More Info</b></samp></summary>
+<br>
+
+<div align="center">
+  <samp><b>Contact me:</b></samp>
+  <br><br>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/analauracandido)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/nlrcndd)
+
+</div>
+
+<br>
+
+<div align="center">
+  <samp>
+    📌 Currently building: <b>Prontuário Veterinário API</b> (FastAPI + SQLAlchemy + Pydantic v2) & <b>Password Checker</b> (HIBP + k-Anonymity)
+  </samp>
+</div>
+
+<br>
+</details>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nlrcndd&style=flat-square&color=8f2c5b" />
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4A148C,100:CE93D8&section=footer"/>
