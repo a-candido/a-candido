@@ -1,19 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4A148C,100:CE93D8&section=header"/>
 
 <div align="center">
-  <img align="center" height="150" src="https://i.imgur.com/wl70Kwb.gif" />
-</div>
-
-<div align="center">
-  <b><samp>الحمد لله</samp></b>
+  <b><samp style="font-size:20px">الحمد لله</samp></b>
   <br>
-  <samp>
+  <samp style="font-size:20px">
     Hi there! I'm <b>Ana Laura Cândido</b>
   </samp>
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=CE93D8&width=900&size=22&center=true&lines=I'm+a+Computer+Engineering+student;Backend+Developer+%7C+Python+%2B+FastAPI;Cybersecurity+%7C+Blue+Team+%2F+SOC;Building+my+way+into+international+tech;Welcome+to+my+profile!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=CE93D8&width=900&size=28&center=true&lines=I'm+a+Computer+Engineering+student;Backend+Developer+%7C+Python+%2B+FastAPI;Cybersecurity+%7C+Blue+Team+%2F+SOC;Welcome+to+my+profile!" alt="Typing SVG"/>
+</div>
+
+<div align="center">
+  <img align="center" height="150" src="https://i.imgur.com/wl70Kwb.gif" />
 </div>
 
 <br>
@@ -47,7 +47,7 @@
 
 <!-- Contribution snake animation - see snake.yml for setup -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nlrcndd/nlrcndd/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/a-candido/a-candido/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <br>
@@ -61,7 +61,7 @@
   <br><br>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/analauracandido)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/nlrcndd)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/a-candido)
 
 </div>
 
@@ -79,7 +79,7 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nlrcndd&style=flat-square&color=8f2c5b" />
+  <img src="https://komarev.com/ghpvc/?username=a-candido&style=flat-square&color=8f2c5b" />
 </div>
 
 <br>
