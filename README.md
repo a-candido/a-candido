@@ -44,17 +44,6 @@
 <details align="center">
 <summary><samp><b>More Info</b></samp></summary>
 <br>
-<div align="center">
-  <samp><b>Contact me:</b></samp>
-  <br><br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/analauracandido)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/a-candido)
-</div>
-<br>
-<div align="center">
-  <samp>
-    📌 Currently building: <b>Prontuário Veterinário API</b> (FastAPI + SQLAlchemy + Pydantic v2) & <b>Password Checker</b> (HIBP + k-Anonymity)
-  </samp>
 </div>
 <br>
 </details>
